@@ -1,0 +1,16 @@
+Usage: python -i DetARPSpoof.py [192.168.2.0/24 Wi-Fi]
+Display the IP/MACs in the LAN=192.168.2.1/24
+Begin emission:
+Finished sending 256 packets.
+
+Received 3576 packets, got 7 answers, remaining 249 packets
+IPAddress=192.168.2.14 MACAddress=70:66:55:09:95:05
+IPAddress=192.168.2.1 MACAddress=2c:79:d7:03:7f:30
+IPAddress=192.168.2.24 MACAddress=00:0e:08:18:39:46
+IPAddress=192.168.2.18 MACAddress=7c:76:35:16:2e:ca
+IPAddress=192.168.2.22 MACAddress=00:db:df:ea:7f:8b
+IPAddress=192.168.2.19 MACAddress=b4:6b:fc:d5:cc:a3
+IPAddress=192.168.2.12 MACAddress=b4:d5:bd:ee:0d:e0
+*****************
+Detection On interface:\Device\NPF_{26530B8A-0D7B-4BC2-BCE2-34C1C407304A}
+Checking the packet..., stop by ^c
